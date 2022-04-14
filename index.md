@@ -100,12 +100,13 @@ All-in-one writeup: [Raid I - VIII](/CTF-Competition/C2C_Qualifying/_posts/2022-
 
 #### JR PENETRATION TESTER - Medium
 
-- [Introduction to Pentesting]() - done
+- Introduction to Pentesting - done
 - [Introduction to Web Hacking](/CTF/TryHackMe/_posts/2022-04-13-Introduction-to-Web-Hacking.md) - done
   - Walking an Application
   - Content Discovery
   - Subdomain Enumeration
   - Authentication Bypass
+  - IDOR
 - Burp Suite
 - Network Security
 - Vulnerability Research
